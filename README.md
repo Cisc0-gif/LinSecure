@@ -4,7 +4,7 @@ A simple security baseline that compiles some of my security tools into an easy 
 
 ## Getting Started
 
-To begin setup, run ``` sudo ./linsecure.sh ``` and follow all instructions in the installer. It's that easy!
+To begin setup, run ``` sudo ./secure.sh ``` and follow all instructions in the installer. It's that easy!
 
 ## Built With
 
